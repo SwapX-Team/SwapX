@@ -6,7 +6,7 @@ SwapX firmly believes that the fundamental vitality and prospect of DeFi is that
 
 ## White Paper
 
- [SwapX v1.0 White Paper](white-paper/SwapX-v1.0-whitepaper.pdf)
+ [SwapX v1.0 White Paper](white-paper/SwapX-v1-whitepaper.pdf)
 
 
 
