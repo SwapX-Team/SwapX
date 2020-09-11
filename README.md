@@ -10,6 +10,8 @@ SwapX firmly believes that the fundamental vitality and prospect of DeFi is that
 
 
 
+
+
 ## User Guide
 
 - [How to connect a wallet](user-guide/connect-a-wallet.md)
@@ -17,6 +19,21 @@ SwapX firmly believes that the fundamental vitality and prospect of DeFi is that
 - [How to add liquidity](user-guide/add-liquidity.md)
 - [How to exchange tokens](user-guide/exchange-tokens.md)
 - [How to remove liquidity](user-guide/remove-liquidity.md)
+
+
+
+
+
+## Security Audit
+
+All smart contracts have been audited by the developer community and are publicized on GitHub for all participants to reviewhere.
+
+
+
+- [swapx-v1-core](https://github.com/SwapX-Team/swapx-v1-core)
+- [swapx-v1-periphery](https://github.com/SwapX-Team/swapx-v1-periphery)
+- [swapx-lib](https://github.com/SwapX-Team/swapx-lib)
+- [swapx-v1-redeemable](https://github.com/SwapX-Team/swapx-v1-redeemable)
 
 
 
