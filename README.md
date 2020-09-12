@@ -37,4 +37,15 @@ All smart contracts have been audited by the developer community and are publici
 
 
 
+## Contract Addresses
+
+The Ethereum mainnet contract addresses are as follows:
+
+- **Factory: ** `0xbec1C22fA669Bf17b9d2326Beb9Adce4fC697614`
+
+- **Router: ** `0x917f3F8D22Af0AedBe9491002F0c6838769E2925`
+
+- **Redeem: ** `0xEf7920E4808e92724F438C572a38BC459463e09d`
+
+- **![SWP](SWP.png) SWP: ** `0xDA3145d0A373712E036106FC1fa34b1014807e68`
 
