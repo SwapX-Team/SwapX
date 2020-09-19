@@ -49,3 +49,7 @@ The Ethereum mainnet contract addresses are as follows:
 
 - ![SWP](SWP.png)**SWP:** `0xDA3145d0A373712E036106FC1fa34b1014807e68`
 
+- **Staking:** `0xAd165cb6a580Bd0aaD4290F6e9428f4538370A3b`
+
+- **Timelock:** `0xb1Ca69A8b6958E5c1EcE3d22E022b28C8127e3a0`
+
